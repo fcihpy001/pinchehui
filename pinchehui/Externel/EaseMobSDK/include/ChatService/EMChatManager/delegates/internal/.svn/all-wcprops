@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal
+END
+EMChatManagerPushNotificationDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerPushNotificationDelegate.h
+END
+EMChatManagerBuddyDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerBuddyDelegate.h
+END
+EMChatManagerLoginDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerLoginDelegate.h
+END
+EMChatManagerDelegateBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerDelegateBase.h
+END
+EMChatManagerEncryptionDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerEncryptionDelegate.h
+END
+EMChatManagerGroupDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerGroupDelegate.h
+END
+EMChatManagerUtilDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerUtilDelegate.h
+END
+EMChatManagerChatDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerChatDelegate.h
+END
+EMChatManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerDelegate.h
+END
+EMChatManagerMediaDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/delegates/internal/EMChatManagerMediaDelegate.h
+END

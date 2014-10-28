@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal
+END
+IChatManagerPushNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerPushNotification.h
+END
+IChatManagerBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerBuddy.h
+END
+IChatManagerLogin.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerLogin.h
+END
+IChatManagerSettingOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerSettingOptions.h
+END
+IChatManagerBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerBase.h
+END
+IChatManagerConversation.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerConversation.h
+END
+IChatManagerEncryption.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerEncryption.h
+END
+IChatManagerGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerGroup.h
+END
+IChatManagerUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerUtil.h
+END
+IChatManagerChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerChat.h
+END
+IChatManagerMedia.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/internal/IChatManagerMedia.h
+END

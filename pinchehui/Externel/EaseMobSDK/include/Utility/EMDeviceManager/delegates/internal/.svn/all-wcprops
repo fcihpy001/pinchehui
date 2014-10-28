@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal
+END
+EMDeviceManagerLocationDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerLocationDelegate.h
+END
+EMDeviceManagerNetworkDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerNetworkDelegate.h
+END
+EMDeviceManagerDelegateBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerDelegateBase.h
+END
+EMDeviceManagerProximitySensorDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerProximitySensorDelegate.h
+END
+EMDeviceManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerDelegate.h
+END
+EMDeviceManagerMediaDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/delegates/internal/EMDeviceManagerMediaDelegate.h
+END

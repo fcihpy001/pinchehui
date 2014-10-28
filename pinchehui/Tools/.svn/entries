@@ -1,0 +1,112 @@
+10
+
+dir
+0
+https://ios1@182.92.217.130/svn/ios/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Tools
+https://ios1@182.92.217.130/svn/ios
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66aa1ea6-ca4e-c74e-925c-446f670779bb
+
+Account.h
+file
+
+
+
+add
+
+AccountTools.h
+file
+
+
+
+add
+
+HttpTool.h
+file
+
+
+
+add
+
+SetGetUIDCID.h
+file
+
+
+
+add
+
+MetaDataTool.h
+file
+
+
+
+add
+
+Account.m
+file
+
+
+
+add
+
+AccountTools.m
+file
+
+
+
+add
+
+HttpTool.m
+file
+
+
+
+add
+
+SetGetUIDCID.m
+file
+
+
+
+add
+
+Singleton.h
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+MetaDataTool.m
+file
+
+
+
+add
+

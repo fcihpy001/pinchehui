@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://ios1@182.92.217.130/svn/ios/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/AppEngin/Chat/My
+https://ios1@182.92.217.130/svn/ios
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66aa1ea6-ca4e-c74e-925c-446f670779bb
+
+ThirdViewController.h
+file
+
+
+
+add
+
+PhoneListAddFriendViewController.m
+file
+
+
+
+add
+
+ThirdViewController.m
+file
+
+
+
+add
+
+AddFriendOfThirdViewController.h
+file
+
+
+
+add
+
+PhoneListTVCell.h
+file
+
+
+
+add
+
+AddFriendOfThirdViewController.m
+file
+
+
+
+add
+
+PhoneListTVCell.m
+file
+
+
+
+add
+
+PhoneListAddFriendViewController.h
+file
+
+
+
+add
+
+Tool
+dir
+
+
+
+add
+

@@ -1,0 +1,273 @@
+10
+
+dir
+0
+https://ios1@182.92.217.130/svn/ios/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/AppEngin/Mine/Controller
+https://ios1@182.92.217.130/svn/ios
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66aa1ea6-ca4e-c74e-925c-446f670779bb
+
+PersonDetailViewController.m
+file
+
+
+
+add
+
+PublishCarTableViewController.xib
+file
+
+
+
+add
+
+PublishCarTableViewController.h
+file
+
+
+
+add
+
+PublishCarTableViewController.m
+file
+
+
+
+add
+
+MyProfileTableViewController.xib
+file
+
+
+
+add
+
+Sign_wordsViewController.xib
+file
+
+
+
+add
+
+MyProfileTableViewController.h
+file
+
+
+
+add
+
+Sign_wordsViewController.h
+file
+
+
+
+add
+
+AddressViewController.xib
+file
+
+
+
+add
+
+MyProfileTableViewController.m
+file
+
+
+
+add
+
+Sign_wordsViewController.m
+file
+
+
+
+add
+
+AddressViewController.h
+file
+
+
+
+add
+
+AddressViewController.m
+file
+
+
+
+add
+
+ProvincesAndCities.plist
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ChangePasswordViewController.xib
+file
+
+
+
+add
+
+ChangePasswordViewController.h
+file
+
+
+
+add
+
+ModifyPhoneViewController.xib
+file
+
+
+
+add
+
+DateTableViewCell.xib
+file
+
+
+
+add
+
+EnterpriseNameViewController.xib
+file
+
+
+
+add
+
+ChangePasswordViewController.m
+file
+
+
+
+add
+
+CompanydespViewController.xib
+file
+
+
+
+add
+
+FeedbackViewController.xib
+file
+
+
+
+add
+
+ModifyPhoneViewController.h
+file
+
+
+
+add
+
+DateTableViewCell.h
+file
+
+
+
+add
+
+EnterpriseNameViewController.h
+file
+
+
+
+add
+
+CompanydespViewController.h
+file
+
+
+
+add
+
+PersonDetailViewController.xib
+file
+
+
+
+add
+
+FeedbackViewController.h
+file
+
+
+
+add
+
+ModifyPhoneViewController.m
+file
+
+
+
+add
+
+DateTableViewCell.m
+file
+
+
+
+add
+
+EnterpriseNameViewController.m
+file
+
+
+
+add
+
+CompanydespViewController.m
+file
+
+
+
+add
+
+PersonDetailViewController.h
+file
+
+
+
+add
+
+FeedbackViewController.m
+file
+
+
+
+add
+

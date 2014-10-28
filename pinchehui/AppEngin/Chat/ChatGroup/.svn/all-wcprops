@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ios/!svn/ver/6/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup
+END
+GroupSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/GroupSettingViewController.h
+END
+PublicGroupListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/PublicGroupListViewController.m
+END
+nav_createGroup@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/nav_createGroup@2x.png
+END
+GroupListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/GroupListViewController.m
+END
+group_participant_addHL@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/group_participant_addHL@2x.png
+END
+GroupSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/GroupSettingViewController.m
+END
+ContactSelectionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/ContactSelectionViewController.h
+END
+ContactSelectionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/ContactSelectionViewController.m
+END
+groupPrivateHeader@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/groupPrivateHeader@2x.png
+END
+group_invitee_delete@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/group_invitee_delete@2x.png
+END
+group_participant_add@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/group_participant_add@2x.png
+END
+groupPublicHeader@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/groupPublicHeader@2x.png
+END
+PublicGroupDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/PublicGroupDetailViewController.h
+END
+ChatGroupDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/ChatGroupDetailViewController.h
+END
+CreateGroupViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/CreateGroupViewController.h
+END
+PublicGroupDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ios/!svn/ver/6/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/PublicGroupDetailViewController.m
+END
+ChatGroupDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/ChatGroupDetailViewController.m
+END
+CreateGroupViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/CreateGroupViewController.m
+END
+group_detail@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/group_detail@2x.png
+END
+PublicGroupListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/PublicGroupListViewController.h
+END
+GroupListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/Chat/ChatDemo-UI2.0/Class/ChatGroup/GroupListViewController.h
+END

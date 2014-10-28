@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/internal
+END
+IDeviceManagerCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerCamera.h
+END
+IDeviceManagerLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerLocation.h
+END
+IDeviceManagerBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerBase.h
+END
+IDeviceManagerProximitySensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerProximitySensor.h
+END
+IDeviceManagerDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerDevice.h
+END
+IDeviceManagerMedia.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/Utility/EMDeviceManager/internal/IDeviceManagerMedia.h
+END

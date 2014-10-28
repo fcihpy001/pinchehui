@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types
+END
+EMTextMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMTextMessageBody.h
+END
+EMChatLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatLocation.h
+END
+EMConversation.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMConversation.h
+END
+IEMChatCryptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/IEMChatCryptor.h
+END
+EMChatCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatCommand.h
+END
+EMChatFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatFile.h
+END
+EMBuddyGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMBuddyGroup.h
+END
+EMReceiptResp.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMReceiptResp.h
+END
+IEMChatFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/IEMChatFile.h
+END
+EMVideoMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMVideoMessageBody.h
+END
+EMLocationMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMLocationMessageBody.h
+END
+EMCommandMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMCommandMessageBody.h
+END
+EMPushNotificationOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMPushNotificationOptions.h
+END
+EMChatServiceDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatServiceDefs.h
+END
+EMReceiptReq.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMReceiptReq.h
+END
+EMBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMBuddy.h
+END
+IEMChatProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/IEMChatProgressDelegate.h
+END
+IEMFileMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/IEMFileMessageBody.h
+END
+EMGroupStyleSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMGroupStyleSetting.h
+END
+IEMMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/IEMMessageBody.h
+END
+IEMChatObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/IEMChatObject.h
+END
+EMChatImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatImage.h
+END
+EMMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMMessage.h
+END
+EMChatText.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatText.h
+END
+IChatImageOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/IChatImageOptions.h
+END
+EMReceiptBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMReceiptBase.h
+END
+EMVoiceMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMVoiceMessageBody.h
+END
+EMGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMGroup.h
+END
+EMFileMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMFileMessageBody.h
+END
+EMImageMessageBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMImageMessageBody.h
+END
+EMChatVoice.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatVoice.h
+END
+EMChatVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ios/!svn/ver/5/chat_%E5%93%81%E8%BD%A6%E4%BC%9A/EaseMobSDK/include/ChatService/EMChatManager/types/EMChatVideo.h
+END
